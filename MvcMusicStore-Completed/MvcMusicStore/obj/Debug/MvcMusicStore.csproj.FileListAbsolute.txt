@@ -1,0 +1,44 @@
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll.config
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.xml
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\Devart.Data.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\Devart.Data.PostgreSql.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\Mono.Security.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\Npgsql.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\Npgsql.EntityFramework.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\Npgsql.xml
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\Npgsql.EntityFramework.xml
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\de\Npgsql.resources.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\es\Npgsql.resources.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\fi\Npgsql.resources.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\fr\Npgsql.resources.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\ja\Npgsql.resources.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\zh-CN\Npgsql.resources.dll
+D:\Datas\Develop\Examples\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
